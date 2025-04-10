@@ -15,7 +15,7 @@ URLS=("https://rammb-slider.cira.colostate.edu/?sat=goes-19&sec=full_disk&x=1011
 )
 
 # Time between switching slides
-WAIT_TIME=90
+WAIT_TIME=45
 
 # Firefox settings
 BROWSER="firefox-esr"
